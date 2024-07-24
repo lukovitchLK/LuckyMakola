@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c80d971.css",
-    "main.js": "/static/js/main.ff00afa9.js",
-    "static/media/photo.jpg": "/static/media/photo.8a57a55a86d9daf0d691.jpg",
-    "static/media/CV.pdf": "/static/media/CV.bfab17477a3224588a67.pdf",
-    "static/media/testimonial3.png": "/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
-    "static/media/testimonial2.png": "/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/testimonial1.png": "/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "index.html": "/index.html",
-    "main.6c80d971.css.map": "/static/css/main.6c80d971.css.map",
-    "main.ff00afa9.js.map": "/static/js/main.ff00afa9.js.map"
+    "main.css": "/matdev/LuckyMakola/static/css/main.7326e5bf.css",
+    "main.js": "/matdev/LuckyMakola/static/js/main.d470c1bf.js",
+    "static/media/photo.jpg": "/matdev/LuckyMakola/static/media/photo.8a57a55a86d9daf0d691.jpg",
+    "static/media/CV.pdf": "/matdev/LuckyMakola/static/media/CV.bfab17477a3224588a67.pdf",
+    "static/media/testimonial3.png": "/matdev/LuckyMakola/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/matdev/LuckyMakola/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/matdev/LuckyMakola/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/matdev/LuckyMakola/index.html",
+    "main.7326e5bf.css.map": "/matdev/LuckyMakola/static/css/main.7326e5bf.css.map",
+    "main.d470c1bf.js.map": "/matdev/LuckyMakola/static/js/main.d470c1bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c80d971.css",
-    "static/js/main.ff00afa9.js"
+    "static/css/main.7326e5bf.css",
+    "static/js/main.d470c1bf.js"
   ]
 }
